@@ -1,6 +1,9 @@
-### Hello
-Click [Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<h3 align="center">
+  Welcome to Afshaal Zubair's profile!
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23DCD0FF&size=24&lines=%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3)](https://git.io/typing-svg)
+<p align="center">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=%23DCD0FF&size=24&lines=%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3%F0%9F%98%B3">
+</p>
 
 
