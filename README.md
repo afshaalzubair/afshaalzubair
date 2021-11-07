@@ -1,5 +1,6 @@
 ### Hello
 Click [Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Afshaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=afshaalzubair&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afshaalzubair)](https://github.com/afshaalzubair/github-readme-stats)
+
 
